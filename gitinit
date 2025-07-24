@@ -1,0 +1,12 @@
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+*.lock
+.env
+android/key.properties
+google-services.json
